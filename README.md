@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbaolu
 - 👀 I’m interested in data science and financial analysis
-- 🌱 I’m currently learning R for data science
-- 💞️ I’m looking to collaborate on project related to data analysis
+- 🌱 I’m currently learning R and Python for data science
+- 💞️ I’m looking to collaborate on project related to data analytics
 
 
 <!---

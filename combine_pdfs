@@ -1,13 +1,13 @@
 library(pdftools)
   
 #Set the working directory
-setwd('C:/GIA BUU/MS_PHD_NEXT_STAGE/APPLICATIONS/transcript/')
+setwd('C:/...')
 
 # Specify input files (e.g., file1.pdf, file2.pdf, ...)
-input_files <- c("Buu Luc-Transcript-University of Economics.pdf", "Syllabi-UEH.pdf")
+input_files <- c("file1.pdf", "file2.pdf")
 
 # Specify output file
-output_file <- "Buu Luc-University of Economics-transcript and syllabi.pdf"
+output_file <- "merged_file.pdf"
 
 # Merge PDF files
 pdf_combine(input_files, output_file)

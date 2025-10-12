@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @jbaolu
-- 👀 I’m interested in data science and financial analysis
-- 🌱 I’m currently learning R and Python for data science
-- 💞️ I’m looking to collaborate on project related to data analytics
+# 👋 Hi, I'm Gia Buu Luc  
+**AI-Trained Finance Professional | Prompt Engineer | LLM Evaluator**
 
+🎯 I bridge finance and artificial intelligence to create data-driven insights and smarter decision systems.
 
-<!---
-jbaolu/jbaolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **What I Do**
+- Prompt engineering & LLM evaluation for financial reasoning
+- Quantitative modeling & risk analytics (Python, R)
+- Research: Asset allocation + machine learning classification
+- Data storytelling & visualization for executive communication
+
+📚 **Publications**
+- *A Dynamic Asset Allocation Approach under Technical Analysis and ML Classification* – Applied Economics, 2025
+
+🌍 **Current Focus**
+- AI model evaluation frameworks  
+- Generative AI in finance & strategy  
+
+📫 **Connect with me:** [[LinkedIn](https://www.linkedin.com/in/baoluk/)](#) | [Email](mailto:giabuu.luc@gmail.com)

@@ -10,7 +10,7 @@
 - Data storytelling & visualization for executive communication
 
 📚 **Publications**
-- *A Dynamic Asset Allocation Approach under Technical Analysis and ML Classification* – Applied Economics, 2025
+- [*A Dynamic Asset Allocation Approach under Technical Analysis and ML Classification*](https://doi.org/10.1080/00036846.2025.2526177) – Applied Economics, 2025
 
 🌍 **Current Focus**
 - AI model evaluation frameworks  

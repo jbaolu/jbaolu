@@ -16,4 +16,4 @@
 - AI model evaluation frameworks  
 - Generative AI in finance & strategy  
 
-📫 **Connect with me:** [[LinkedIn](https://www.linkedin.com/in/baoluk/)](#) | [Email](mailto:giabuu.luc@gmail.com)
+📫 **Connect with me:** [[LinkedIn](https://www.linkedin.com/in/baoluk/)] | [Email](mailto:giabuu.luc@gmail.com)

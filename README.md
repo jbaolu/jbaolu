@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gia Buu Luc  
+# 👋 Hi, I'm Iris (Gia Buu) Luc  
 **AI-Trained Finance Professional | Prompt Engineer | LLM Evaluator**
 
 🎯 I bridge finance and artificial intelligence to create data-driven insights and smarter decision systems.

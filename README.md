@@ -5,7 +5,7 @@
 
 💡 **What I Do**
 - Prompt engineering & LLM evaluation for financial reasoning
-- Quantitative modeling & risk analytics (Python, R)
+- Quantitative modeling & risk analysis (Python, R)
 - Research: Asset allocation + machine learning classification
 - Data storytelling & visualization for executive communication
 
